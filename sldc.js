@@ -20,6 +20,6 @@
 let planning = "Take data from various departments and plan out the basic outline of the project"
 let analysisOfRequirements = "Clearly define what that data has shown you"
 let design = "Layout all of the architectural and structural systems"
-let implementation = "Released to the intended market once testing is complete and at least a MVP is ready for launch"
+let implementation = "build out the project that was planned for and designed. Get at least a MVP"
 let testingAndIntegration = "Testing out the product to find and fix bugs and to see how the software works and feels for the user"
 let maintain = "Release updates, add new features, continue to fix bugs that occur"
